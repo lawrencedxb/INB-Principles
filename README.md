@@ -1,4 +1,4 @@
-# INBlockchain ICO Investing Principles
+# ICO Investing Principles
 
 *by Li Xiaolai, founder of [INB (inblockchain.com)](http://inblockchain.com)*
 
