@@ -1,8 +1,8 @@
 # ICO Investing Principles
 
-*by Li Xiaolai, founder of [INB (inblockchain.com)](http://inblockchain.com)*
+**by Lawrence , founder of [test](http://test)**
 
-[点击这里查看中文版](Chinese.md)
+[点击这里查看中文版](xxx.md)
 
 
 ## 1. What is an ICO?
