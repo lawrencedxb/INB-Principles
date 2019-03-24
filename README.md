@@ -2,7 +2,7 @@
 
 *by Li Xiaolai, founder of [INB (inblockchain.com)](http://inblockchain.com)*
 
-[点击这里查看中文版](Chinese.md)
+[点击这里查看中文版](xxx.md)
 
 
 ## 1. What is an ICO?
